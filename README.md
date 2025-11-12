@@ -5,9 +5,9 @@ This project explores cutting-edge AI technologies including Edge AI, AI-IoT int
 
 ## Repository Structure
 
-emerging-ai-trends/
+emerging-ai-trends
 │
-├── edge_ai_recycling_classifier.ipynb                           # Edge AI prototype - Recyclable classification
+├── edge_ai_recycling_classifier.ipynb                          # Edge AI prototype - Recyclable classification
 
 ├── edge_ai_deployment.py                                        # Edge AI deployment simulation
 
